@@ -1,1 +1,1 @@
-A personal business card website hosted on GitHub Pages at [http://a.lgrv.net]
+A personal business card website hosted on GitHub Pages at http://a.lgrv.net
